@@ -2,25 +2,15 @@
 
 ## Exemplos práticos de utilização
 
-**Saúde:** sistemas de IA analisam exames médicos como raios-X e ressonâncias magnéticas para detectar doenças como câncer, às vezes com precisão superior à de médicos humanos. A IA também ajuda a descobrir novos medicamentos, analisando milhões de compostos químicos em questão de dias.
+Na saúde, sistemas de IA analisam exames como raios-X e ressonâncias magnéticas para detectar doenças como câncer, às vezes com precisão superior à de médicos humanos, e ajudam a descobrir novos medicamentos analisando milhões de compostos químicos em questão de dias.
 
-**Transporte:** carros autônomos usam IA para "enxergar" o ambiente através de câmeras e sensores, identificar pedestres, outros veículos e sinais de trânsito, e tomar decisões de direção em tempo real.
+Carros autônomos usam câmeras e sensores para "enxergar" o ambiente, identificar pedestres, outros veículos e sinais de trânsito, e tomar decisões de direção em tempo real. Já assistentes virtuais como Alexa, Siri e Google Assistant entendem o que você fala, interpretam o pedido e melhoram com o tempo, aprendendo seus hábitos e preferências.
 
-**Assistentes Virtuais:** Alexa, Siri e Google Assistant usam IA para entender sua voz, interpretar o que você quer e responder de forma natural. Eles melhoram com o tempo, aprendendo seus hábitos e preferências.
+Nas redes sociais, algoritmos decidem quais posts aparecem no seu feed, sugerem amigos, detectam conteúdo impróprio e identificam rostos em fotos automaticamente. No comércio eletrônico, plataformas como a Amazon recomendam produtos com base no seu histórico de compras e navegação, preveem demanda e otimizam logística.
 
-**Redes Sociais:** algoritmos de IA decidem quais posts você vê no seu feed, sugerem amigos, detectam conteúdo impróprio e identificam rostos em fotos automaticamente.
+Chatbots de atendimento ao cliente respondem perguntas comuns automaticamente, disponíveis 24 horas por dia, o que reduz o tempo de espera. Na área de segurança, reconhecimento facial em aeroportos, detecção de fraudes em transações bancárias e identificação de ameaças cibernéticas já são rotina.
 
-**Comércio Eletrônico:** plataformas como Amazon utilizam IA para recomendar produtos com base no seu histórico de compras e navegação, prever demanda e otimizar logística.
-
-**Atendimento ao Cliente:** chatbots respondem perguntas comuns automaticamente, disponíveis 24 horas por dia, reduzindo o tempo de espera.
-
-**Segurança:** sistemas de reconhecimento facial em aeroportos, detecção de fraudes em transações bancárias e identificação de ameaças cibernéticas.
-
-**Entretenimento:** Netflix e Spotify usam IA para recomendar filmes e músicas. Jogos usam IA para criar oponentes que se adaptam ao seu estilo de jogo.
-
-**Agricultura:** drones com IA monitoram plantações, identificam pragas e doenças, otimizam irrigação e preveem colheitas.
-
-**Tradução:** ferramentas como Google Tradutor usam redes neurais para traduzir textos entre idiomas, capturando nuances e contexto melhor que métodos antigos.
+Netflix e Spotify recomendam filmes e músicas usando IA, e jogos criam oponentes que se adaptam ao estilo de quem está jogando. Na agricultura, drones monitoram plantações, identificam pragas e doenças, otimizam irrigação e preveem colheitas. E ferramentas de tradução como o Google Tradutor usam redes neurais para capturar nuances e contexto melhor que os métodos antigos.
 
 ## Limitações e desafios da IA
 

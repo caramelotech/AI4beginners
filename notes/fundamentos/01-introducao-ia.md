@@ -1,11 +1,5 @@
 # Introdução à Inteligência Artificial
 
-## Introdução
-
-Bem-vindo ao mundo da Inteligência Artificial! Este é o primeiro passo de uma jornada pelo universo da IA, onde você descobrirá como as máquinas podem aprender, raciocinar e até tomar decisões.
-
-Neste guia, vamos explorar os conceitos fundamentais da Inteligência Artificial, entender como ela funciona e desvendar as relações entre IA, Machine Learning e Deep Learning de uma forma simples e acessível.
-
 ## O que é Inteligência Artificial?
 
 Inteligência Artificial (IA) é um campo da ciência da computação dedicado a criar sistemas capazes de realizar tarefas que normalmente exigiriam inteligência humana. Pense nela como a capacidade de ensinar máquinas a "pensar" e tomar decisões de forma semelhante aos humanos, mas usando algoritmos e dados.
@@ -33,7 +27,7 @@ Para entender como a IA funciona, vou usar uma analogia: imagine que você está
 
 ## Inteligência Artificial, Machine Learning e Deep Learning
 
-Entender a diferença entre esses três conceitos é fundamental para sua jornada no mundo da IA.
+Entender a diferença entre esses três conceitos ajuda a situar onde cada técnica se aplica.
 
 ### Inteligência Artificial (IA)
 
@@ -92,13 +86,4 @@ A IA está presente em diversos aspectos do nosso dia a dia:
 - **Saúde:** Diagnóstico de doenças, descoberta de medicamentos
 - **Finanças:** Detecção de fraudes, análise de crédito
 
-## Resumo
-
-> **💡 Pontos-chave:**
->
-> - IA é o campo amplo que visa simular inteligência humana em máquinas
-> - Machine Learning é uma subárea da IA onde máquinas aprendem com dados
-> - Deep Learning é uma subárea do ML que usa redes neurais profundas
-> - Todo DL é ML, e todo ML é IA, mas o inverso não é verdadeiro
-
-Na próxima nota, [Componentes e Tipos de IA](/labs/ai/fundamentos/02-componentes-e-tipos-de-ia/), você vai ver do que a IA moderna é feita na prática e as diferenças entre IA estreita e IA geral.
+Em [Componentes e Tipos de IA](/labs/ai/fundamentos/02-componentes-e-tipos-de-ia/) você vai ver do que a IA moderna é feita na prática e as diferenças entre IA estreita e IA geral.

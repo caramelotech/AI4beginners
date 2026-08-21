@@ -98,15 +98,4 @@ Juntando tudo, dá para pensar no desenvolvimento moderno com IA como apoiado em
 - Skills
 - **Workflow**, o centro de tudo
 
-O insight mais importante aqui: não é sobre qual ferramenta você usa, é sobre ter um **workflow bem integrado com IA**.
-
-## Resumo
-
-Algumas mudanças resumem bem o que está acontecendo no desenvolvimento de software com IA:
-
-- Código não é mais o único centro do trabalho
-- Prompt virou uma interface de verdade
-- Contexto virou parte da arquitetura, veja mais em [Context Engineering](/labs/ai/llm/04-context-engineering-e-rag/)
-- IA virou um tipo de runtime cognitivo dentro do sistema
-
-Ou, resumindo o novo stack mental: software tradicional é lógica + dados, software com IA é **contexto + instrução + validação**.
+O ponto central aqui não é qual ferramenta você usa, é ter um **workflow bem integrado com IA**: o contexto, por exemplo, virou parte da própria arquitetura do sistema, tema que aparece com mais detalhe em [Context Engineering](/labs/ai/llm/04-context-engineering-e-rag/).

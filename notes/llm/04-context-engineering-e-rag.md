@@ -92,8 +92,4 @@ flowchart LR
 
 O **Context Builder** é a peça que junta tudo: o que veio do RAG, o histórico da conversa, a memória de longo prazo e as instruções do sistema, montando o prompt final que vai para o LLM.
 
-## Resumo
-
-Context Engineering é, na prática, a nova arquitetura de backend de sistemas com IA: em vez de só lógica e dados, agora também se projeta contexto, instrução e validação. E RAG é hoje a fonte de verdade mais usada para manter esse contexto atualizado e confiável, mesmo em modelos que não foram treinados com dados privados ou recentes.
-
 Em breve: mais notas sobre arquitetura Transformer, fine-tuning e outros tópicos de LLMs.

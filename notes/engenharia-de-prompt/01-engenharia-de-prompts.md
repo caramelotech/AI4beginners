@@ -18,7 +18,7 @@ Também conhecida como **Role Prompting**, essa estratégia direciona o modelo a
 
 **Engenharia de Prompts** é definida como o processo de orientar soluções de inteligência artificial generativa para gerar resultados desejados.
 
-A engenharia de prompts envolve escolher **formatos, frases e símbolos** adequados para orientar a IA, sendo crucial para desenvolvedores na automatização de tarefas, exploração de possibilidades e aprimoramento da colaboração.
+A engenharia de prompts envolve escolher **formatos, frases e símbolos** adequados para orientar a IA, algo especialmente útil para desenvolvedores automatizarem tarefas, explorarem possibilidades e melhorarem a colaboração com o modelo.
 
 ### Tipos de técnicas de prompting
 

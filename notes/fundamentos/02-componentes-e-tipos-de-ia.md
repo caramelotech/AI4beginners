@@ -2,7 +2,7 @@
 
 ## Os principais componentes da IA moderna
 
-A IA moderna geralmente envolve três elementos fundamentais:
+A IA moderna geralmente envolve três elementos:
 
 **Dados:** são o "combustível" da IA. Quanto mais dados de qualidade o sistema recebe, melhor ele aprende. Exemplo: para treinar um sistema de reconhecimento de voz, são necessárias milhares de horas de áudio com transcrições.
 

@@ -72,7 +72,3 @@ Sistemas baseados em LLM têm riscos próprios, que vale conhecer:
 - **Falta de guardrails:** não ter camadas de validação (input e output) que impeçam o sistema de executar ações perigosas mesmo que o modelo "erre"
 
 > ⚠️ **Na prática:** sempre trate qualquer conteúdo externo (documentos, resultados de busca, mensagens de usuário) como não confiável antes de deixar um agente agir com base nele.
-
-## Resumo
-
-Prompt bem escrito não é só sobre escolher as palavras certas: em sistemas reais, prompt vira código, precisa de versionamento, tem impacto direto em custo e latência, e exige atenção a segurança como qualquer outra parte do sistema.
