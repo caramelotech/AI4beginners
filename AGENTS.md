@@ -9,7 +9,7 @@ Este é o repositório de **conteúdo** do AI Labs (Caramelo Tech):
 - **Conteúdo:** 100% em `notes/`, Markdown puro em português brasileiro, sem frontmatter
 - **Publicação:** o repositório hub [labs](https://github.com/caramelotech/labs) busca as notas daqui e publica em `https://caramelotech.com.br/labs/ai/`
 - **Sem build:** não há dependências, testes ou comandos - apenas Markdown
-- **Principais seções:** fundamentos, llm, engenharia-de-prompt, agents, full-cycle-IA-tech-week
+- **Principais seções:** fundamentos, llm, engenharia-de-prompt, agents
 
 Veja [CLAUDE.md](CLAUDE.md) para detalhes completos.
 
@@ -17,7 +17,7 @@ Veja [CLAUDE.md](CLAUDE.md) para detalhes completos.
 
 ### Adicionar uma nova nota
 
-1. **Escolha a pasta:** `fundamentos/`, `llm/`, `engenharia-de-prompt/`, `agents/` ou `full-cycle-IA-tech-week/`
+1. **Escolha a pasta:** `fundamentos/`, `llm/`, `engenharia-de-prompt/` ou `agents/`
 2. **Nomeie com prefixo numérico** para controlar a ordem na barra lateral: se a pasta já tem `01-*.md`, crie `02-nome-do-topico.md`
 3. **Primeira linha = título:** comece o arquivo com `# Título da Nota` - o site usa esse H1 como título da página
 4. **Sem frontmatter:** escreva direto o Markdown

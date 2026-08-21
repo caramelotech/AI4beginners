@@ -5,7 +5,6 @@
     { "label": "LLM", "directory": "llm" },
     { "label": "Engenharia de Prompt", "directory": "engenharia-de-prompt" },
     { "label": "Agents", "directory": "agents" },
-    { "label": "Full Cycle IA Tech Week", "directory": "full-cycle-IA-tech-week" },
     { "label": "Recursos", "slug": "recursos" }
   ]
 }
