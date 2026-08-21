@@ -8,6 +8,15 @@ Um **agente de IA** é um sistema inteligente capaz de realizar ações de forma
 
 Pense assim: a IA generativa sabe **gerar texto**. O agente usa essa capacidade de gerar texto (ou raciocínio) para **decidir e executar ações** no mundo real ou dentro de um sistema.
 
+Uma forma simples de resumir o que compõe um agente é essa fórmula:
+
+> **Agente = Prompt + Contexto + Ferramentas (Tools) + Loop**
+
+- **Prompt:** as instruções que orientam o comportamento do agente
+- **Contexto:** as informações disponíveis sobre a situação atual
+- **Ferramentas:** as ações que o agente pode de fato executar (buscar, consultar, escrever, chamar uma API)
+- **Loop:** o ciclo que se repete até o objetivo ser alcançado
+
 ## Como um agente funciona
 
 O funcionamento básico de um agente segue um ciclo de três etapas, que se repete continuamente:
@@ -52,6 +61,7 @@ Agentes de IA já estão presentes em diversas áreas. Alguns exemplos de uso co
 - Criar e editar código
 - Escrever documentação
 - Fazer commits e abrir pull requests automaticamente
+- Executar testes e corrigir bugs de forma autônoma
 
 Exemplos conhecidos nessa categoria são o **Devin AI** e o **Cursor**, ferramentas que atuam como assistentes de desenvolvimento capazes de executar tarefas dentro do fluxo de trabalho de um programador.
 
@@ -68,5 +78,6 @@ Nem todo sistema "inteligente" ou automatizado é um agente de IA. Vale a pena d
 - **Um chatbot simples**, que apenas responde perguntas com texto e não executa nenhuma ação no mundo (não consulta sistemas, não aciona ferramentas), não é um agente. Ele participa só da etapa de "raciocínio/resposta", sem a etapa de ação.
 - **Automação tradicional (RPA)**, que segue um roteiro fixo de passos pré-programados sem interpretar contexto ou tomar decisões novas, também não é um agente de IA. Ela executa sempre a mesma sequência, sem raciocinar sobre o que fazer diante de uma situação diferente.
 - **Um modelo de IA generativa sozinho**, como um LLM apenas gerando texto em resposta a um prompt, também não é um agente por si só. Ele só se torna parte de um agente quando ganha a capacidade de perceber o ambiente e agir sobre ele, por exemplo, chamando ferramentas ou tomando decisões autônomas.
+- **Uma aplicação com IA embutida**, como um autocomplete, um sistema de recomendação ou uma análise automática de dados, também não é necessariamente um agente. Esses recursos usam IA para melhorar uma funcionalidade pontual, mas não decidem nem executam ações autônomas de ponta a ponta como um agente faz.
 
 Em resumo: o que define um agente não é "usar IA", e sim a combinação de **perceber, raciocinar e agir de forma autônoma** sobre um ambiente.
