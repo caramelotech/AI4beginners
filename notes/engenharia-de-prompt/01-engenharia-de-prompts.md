@@ -35,6 +35,28 @@ A engenharia de prompts envolve escolher **formatos, frases e símbolos** adequa
 
 > **Material complementar:** Para aprofundar, consulte materiais como _Prompt Engineering para Desenvolvedores_ (PDF e cursos disponíveis em diversas plataformas).
 
+### Chain of Thought na prática
+
+Pedir para o modelo "pensar em voz alta" antes de responder muda bastante o resultado. Sem CoT, o modelo tenta acertar a resposta de primeira, o que aumenta a chance de erro em problemas com múltiplas etapas:
+
+```mermaid
+flowchart LR
+    A[Pergunta] --> B[Resposta direta]
+    B --> C[Maior chance de erro]
+```
+
+Com CoT, o modelo quebra o raciocínio em passos antes de responder:
+
+```mermaid
+flowchart LR
+    A[Pergunta] --> B[Decompor o problema]
+    B --> C[Raciocinar passo a passo]
+    C --> D[Validar o raciocínio]
+    D --> E[Resposta melhor]
+```
+
+Um jeito simples de ativar isso na prática é literalmente pedir: _"pense passo a passo antes de responder"_.
+
 ## Framework de Prompt
 
 Utilizado por profissionais da área, este framework estrutura-se em **cinco elementos essenciais**: **papel, instruções, perguntas, contexto e exemplos**. Cada componente desempenha uma função estratégica na elaboração do prompt, permitindo compreender não apenas o conteúdo a incluir, mas também **a sequência ideal** de cada elemento para otimizar os resultados gerados por sistemas de inteligência artificial como o ChatGPT.
@@ -54,8 +76,3 @@ O **Prompt de Preparação** é uma técnica avançada em que você primeiro ins
 Essa abordagem é particularmente útil em conversas longas ou quando você precisa que a IA mantenha um padrão consistente ao longo de múltiplas respostas.
 
 **Exemplo:** Você pode preparar a IA dizendo _"Responda sempre de forma concisa, usando bullet points, e cite fontes quando relevante"_ antes de fazer suas perguntas subsequentes.
-
-## Próximos Passos
-
-- [Introdução à Inteligência Artificial](../fundamentos/introducao-ia)
-- [Recursos para Aprendizado](../recursos)
