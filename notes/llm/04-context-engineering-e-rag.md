@@ -77,6 +77,8 @@ RAG ajuda a resolver três problemas comuns de LLMs usados sozinhos:
 
 RAG não é de graça: ele adiciona uma etapa de busca antes da geração, o que aumenta **latência**, **custo** (mais chamadas, mais tokens de contexto) e **complexidade** do sistema (é preciso manter um índice de busca atualizado).
 
+O fluxo mostrado aqui é a versão mais simples. Quando a base cresce ou as perguntas ficam mais difíceis, essa busca ganha camadas extras, o assunto da nota [Arquiteturas de RAG](/labs/ai/llm/05-arquiteturas-de-rag/).
+
 ## Arquitetura de um sistema com IA e RAG
 
 Juntando Context Engineering e RAG, uma arquitetura comum de backend com IA fica assim:
