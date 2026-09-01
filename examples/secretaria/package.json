@@ -1,0 +1,19 @@
+{
+  "name": "secretaria",
+  "version": "1.0.0",
+  "description": "Agente SecretarIA - exemplo prático de agente de IA com function calling usando o Gemini",
+  "type": "module",
+  "main": "src/secretaria.js",
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/secretaria.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.52.0",
+    "dotenv": "^16.6.1"
+  }
+}
