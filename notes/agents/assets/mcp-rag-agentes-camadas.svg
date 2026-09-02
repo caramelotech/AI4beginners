@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 400" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <rect width="840" height="400" rx="14" fill="#ffffff"/>
+  <text x="32" y="44" font-size="21" font-weight="700" fill="#111827">RAG, MCP e agente: camadas que se somam</text>
+
+  <!-- RAG -->
+  <rect x="32" y="70" width="248" height="228" rx="12" fill="#f0fdfa" stroke="#0d9488" stroke-width="2"/>
+  <rect x="32" y="70" width="248" height="40" rx="12" fill="#0d9488"/>
+  <text x="52" y="97" font-size="18" font-weight="700" fill="#ffffff">RAG</text>
+  <text x="52" y="140" font-size="14" font-weight="700" fill="#0f766e">= conhecimento</text>
+  <text x="52" y="174" font-size="13" fill="#134e4a">Responde:</text>
+  <text x="52" y="194" font-size="13" font-weight="600" fill="#134e4a">o que o modelo</text>
+  <text x="52" y="212" font-size="13" font-weight="600" fill="#134e4a">precisa saber?</text>
+  <text x="52" y="248" font-size="12.5" fill="#134e4a">Busca trechos numa</text>
+  <text x="52" y="266" font-size="12.5" fill="#134e4a">base indexada antes</text>
+  <text x="52" y="284" font-size="12.5" fill="#134e4a">de gerar a resposta.</text>
+
+  <!-- MCP -->
+  <rect x="296" y="70" width="248" height="228" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <rect x="296" y="70" width="248" height="40" rx="12" fill="#2563eb"/>
+  <text x="316" y="97" font-size="18" font-weight="700" fill="#ffffff">MCP</text>
+  <text x="316" y="140" font-size="14" font-weight="700" fill="#1d4ed8">= acesso</text>
+  <text x="316" y="174" font-size="13" fill="#1e3a8a">Responde:</text>
+  <text x="316" y="194" font-size="13" font-weight="600" fill="#1e3a8a">o que ele pode</text>
+  <text x="316" y="212" font-size="13" font-weight="600" fill="#1e3a8a">acessar e invocar?</text>
+  <text x="316" y="248" font-size="12.5" fill="#1e3a8a">Protocolo padrão para</text>
+  <text x="316" y="266" font-size="12.5" fill="#1e3a8a">conectar o modelo a</text>
+  <text x="316" y="284" font-size="12.5" fill="#1e3a8a">ferramentas e APIs.</text>
+
+  <!-- Agente -->
+  <rect x="560" y="70" width="248" height="228" rx="12" fill="#f5f3ff" stroke="#7c3aed" stroke-width="2"/>
+  <rect x="560" y="70" width="248" height="40" rx="12" fill="#7c3aed"/>
+  <text x="580" y="97" font-size="18" font-weight="700" fill="#ffffff">Agente</text>
+  <text x="580" y="140" font-size="14" font-weight="700" fill="#6d28d9">= autonomia</text>
+  <text x="580" y="174" font-size="13" fill="#4c1d95">Responde:</text>
+  <text x="580" y="194" font-size="13" font-weight="600" fill="#4c1d95">o que fazer</text>
+  <text x="580" y="212" font-size="13" font-weight="600" fill="#4c1d95">a seguir?</text>
+  <text x="580" y="248" font-size="12.5" fill="#4c1d95">Decide o próximo</text>
+  <text x="580" y="266" font-size="12.5" fill="#4c1d95">passo e age em loop.</text>
+  <text x="580" y="284" font-size="12.5" fill="#4c1d95">Usa RAG e MCP.</text>
+
+  <rect x="32" y="322" width="776" height="46" rx="10" fill="#f9fafb" stroke="#d1d5db" stroke-width="1"/>
+  <text x="420" y="350" font-size="13.5" font-weight="600" fill="#374151" text-anchor="middle">Um agente pode usar RAG e MCP ao mesmo tempo - não são alternativas concorrentes.</text>
+</svg>
